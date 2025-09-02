@@ -1,4 +1,3 @@
-[![Header](https://res.cloudinary.com/phantomping/image/upload/f_auto,q_auto/v1/Github%20Project/zhiij8yh7nauoh97siyg)](https://github.com/Priyanshu-Taria)
 
 <h1 align="center">Hey there 👋, I'm <a href="https://www.linkedin.com/in/er-priyanshu-taria-055774283" target="_blank">Er. Priyanshu Taria</a> 🚀</h1>
 <h3 align="center">
